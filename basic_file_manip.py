@@ -5,11 +5,11 @@ This program allows the user to:
 1. Add text to a file
 2. Display file content
 3. Create a copy of a file
-4. Search for a word (exact match)
+4. Search for a word (exact matches only)
 5. Exit the program
 
-Author: Your Name
-Date: 2026-04-08
+Author: Greg Horvatgh
+Date: 2026-04-07
 Python version: 3.10+
 """
 
@@ -217,8 +217,8 @@ while option != "x":
             """Option m: Re-display the menu."""
             menu()
 
-        case "s":
-            """Option s: Exit the program loop."""
+        case "x":
+            """Option x: Exit the program loop."""
             break
 
         case _:
