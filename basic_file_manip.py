@@ -78,7 +78,7 @@ while option != "x":
     """
     Main program loop.
 
-    This loop keeps running until the user selects 's' to exit.
+    This loop keeps running until the user selects 'x' to exit.
     Based on the user's choice, it executes:
     - File creation (option "1")
     - File display (option "2")
