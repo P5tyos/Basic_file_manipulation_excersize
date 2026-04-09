@@ -8,7 +8,7 @@ This program allows the user to:
 4. Search for a word (exact matches only)
 5. Exit the program
 
-Author: Greg Horvatgh
+Author: Greg Horvath
 Date: 2026-04-07
 Python version: 3.10+
 """
