@@ -50,7 +50,7 @@
   <p>Python 3.10 or higher</p>
 
   <h2>Author</h2>
-  <p>Greg Horvatgh<br />
+  <p>Greg Horvath<br />
     Date: 2026-04-07
   </p>
 
